@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "through": "2.3.x",
-    "concat-stream": "1.1.x",
+    "concat-stream": "1.5.2",
     "source-map": "0.1.x",
     "uglify-js": "https://github.com/ben-ng/UglifyJS2/archive/sourcemap-offset-fix.tar.gz",
     "lodash": "2.3.x",
