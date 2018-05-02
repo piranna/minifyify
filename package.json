@@ -27,7 +27,7 @@
     "uglify-js": "https://github.com/ben-ng/UglifyJS2/archive/sourcemap-offset-fix.tar.gz",
     "lodash": "2.3.x",
     "utilities": "0.0.x",
-    "atob": "1.1.x",
+    "atob": "2.1.0",
     "btoa": "1.1.x",
     "jsesc": "0.4.x"
   },
